@@ -1,6 +1,6 @@
 # HW 3: Spam vs. Ham
 
-**Due: December 11, 9:00 AM**
+**Due: November 23, 9:00 AM**
 
 For this assignment, please complete the _problem set_ found in `hw3-pset.ipynb`. The problem set includes coding
 problems as well as written problems.
@@ -66,6 +66,8 @@ The point values for each problem are given below. 1 point is given for free, fo
 | 3a: Run Experiment                | No Submission | 1      |
 | 3b: Report Results                | Written       | 1      |
 | 3c: Analyze Results               | Written       | 1      |
+| 4a: Ask for Help                  | No Submission | 1 EC   |
+| 4b: Help a Friend                 | No Submission | 1 EC   |
 | **Total**                         |               | **20** |
 
 ### Rubric for Code Problems
@@ -80,7 +82,7 @@ For code questions, you will receive:
 * at least .25 points if your code runs but fails at least one test case
 * 0 points if your code does not run.
 
-Partial credit may be awarded at the Yulu's discretion, depending on the correctness of your logic and the severity of
+Partial credit may be awarded at the Romi's discretion, depending on the correctness of your logic and the severity of
 bugs or other mistakes in your code. All code problems will be graded **as if all other code problems had been answered
 correctly**. Therefore, an incorrect implementation of one function should (in theory) not affect your grade on other
 problems that depend on that function.
@@ -90,14 +92,14 @@ problems that depend on that function.
 For written problems, you will receive:
 
 * full points if your answer is completely correct
-* at least .25 points if a good-faith effort (according to Yulu's judgment) has been made to answer the question
+* at least .25 points if a good-faith effort (according to Romi's judgment) has been made to answer the question
 * 0 points if your answer is blank.
 
-Partial credit may be awarded at Yulu's discretion.
+Partial credit may be awarded at Romi's discretion.
 
 ## Late Submissions and Resubmissions
 
-Grading will commence on December 18, and solutions will be released on that day. Therefore, no late submissions will be
-accepted after 9:00 AM on December 18. You may resubmit your solutions as many times as you like; only the final
-submission will be graded. If the final submission occurs after the deadline on December 11, then your submission will
+Grading will commence on November 30, and solutions will be released on that day. Therefore, no late submissions will be
+accepted after 9:00 AM on November 30. You may resubmit your solutions as many times as you like; only the final
+submission will be graded. If the final submission occurs after the deadline on November 30, then your submission will
 be considered late even if you have previously submitted your solution before the deadline.
