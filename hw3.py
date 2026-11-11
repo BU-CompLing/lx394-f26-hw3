@@ -63,7 +63,7 @@ def timer(message: str) -> Generator[Callable[[None], float], None, None]:
 
 def load_csv(filename: str) -> dict[str, list[str]]:
     """
-    Problem 1b: Loads the data from a CSV file into Python. The data
+    Problem 1e: Loads the data from a CSV file into Python. The data
     should be represented as a dict, where each column header (i.e.,
     the first row of each column) is a key, and the remaining rows are
     stored as a list.
@@ -91,7 +91,7 @@ def load_spam_data(filename: str) -> list[Email]:
         emails. Each email should be represented as a dict in the fol-
         lowing format:
             {"subject": ["The", "subject", "of", "the", "email"],
-             "message": ["Hi", "Yulu", ",", "I", "need", "help", ...],
+             "message": ["Hi", "Romi", ",", "I", "need", "help", ...],
              "label": "ham"}
     """
     raise NotImplementedError("Problem 2a has not been completed yet!")
